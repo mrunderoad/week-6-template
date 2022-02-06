@@ -7,6 +7,8 @@
  * _make sure VScode Jest add on is installed_
  * _add .js file as project needs_
  * _rename test file to whatever is needed_
+ * _Add a .env file to the root directory and add API key like so `API_KEY=[your key here]`_
+ * _In your API url, add your key as `${process.env.API_KEY}`_
  
 
  ### Commands 
